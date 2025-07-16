@@ -1,6 +1,6 @@
 # 👻 Ghost Memer
 
-Ghost Memer is a Discord bot built in **2020** designed to enhance chat interaction with GIFs, memes, emoji utilities, and reaction features. Users could submit their favorite GIFs, which would be reviewed and approved by moderators, and later used in the server through simple commands.
+Ghost Memer is a Discord bot built in **2021** designed to enhance chat interaction with GIFs, memes, emoji utilities, and reaction features. Users could submit their favorite GIFs, which would be reviewed and approved by moderators, and later used in the server through simple commands.
 
 > 🛑 **This project is archived** — it is no longer maintained, and several features may not function due to outdated Discordand Reddit APIs.
 

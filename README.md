@@ -32,9 +32,7 @@ Some commands may break or behave unexpectedly due to:
    ```
 
 4. Run the bot:
-   ```bash
-   python main.py
-   ```
+   Simply run the `start.bat` file.
 
 ---
 

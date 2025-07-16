@@ -70,10 +70,10 @@ Some commands may break or behave unexpectedly due to:
 > Below are the actual help embeds shown in Discord:
 
 ### Public Commands  
-![Public Commands](./71a105f0-d110-4425-b538-f9a628b5a4e6.png)
+![Public Commands](help1.png)
 
 ### Management Commands  
-![Management Commands](./ff48281b-f90e-476b-bce0-77130e9dcf76.png)
+![Management Commands](help2.png)
 
 ---
 
@@ -84,12 +84,6 @@ Some commands may break or behave unexpectedly due to:
 - `Tenor API` – GIF handling
 - `sqlite3` – Database for storing GIFs
 - `dotenv` – API key management
-
----
-
-## 📜 License
-
-MIT License (or specify yours)
 
 ---
 
